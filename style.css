@@ -1,0 +1,25 @@
+.header_div{
+    background: white;
+    color:aqua;
+}
+
+.header_div img{
+    width:100px;
+}
+
+body{
+    background-color: aqua;
+}
+
+.text_image_and_result{
+    background-color: rgb(255, 213, 196);
+    width: 400px;
+    padding-left: 20px;
+}
+
+.bob3{
+    background-color: rgb(204, 204, 204);
+    border-radius: 15px;
+    width: 300px;
+}
+
